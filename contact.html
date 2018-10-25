@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact-Page</title>
+    <link rel="stylesheet" type="text/css" href="css/defaultcss.css">
+    <link rel="stylesheet" type="text/css" href="css/indcss.css">
+    <link href= "https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet"> 
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Charmonman" rel="stylesheet">
+</head>
+
+<body>
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="aboutme.html">About Me</a></li>
+        <li><a href="experience.html">Experience</a></li>
+        <li><a href= "contact.html">Contact</a></li>
+    </ul>
+</nav>
+<!-- with help from http://css-snippets.com/simple-horizontal-navigation.-->
+
+<header>
+        <h1>Contact Me</h1>
+</header>
+
+<p>Please explore my personal website. I would love to talk more about my interests and work, share research, and collaborate on future projects. </p>
+<img class="endpic" src="images/dugal.jpg" alt = "Picture of Emily G. Finch"/>   
+    <h2>You can reach me by:</h2>
+        <ul>
+            <li><i class="far fa-envelope"> </i>Email: <a href="mailto:Emifinch@umich.edu">Emifinch@umich.edu</a></li>
+            <li><i class="fas fa-phone-volume"> </i>Phone: 1-734-787-2039</li>
+            <li><i class="fab fa-linkedin"> </i>Find me on <a href="www.linkedin.com/in/emilygracefinch">Linkedin</a></li>
+            <li><i class="fas fa-edit"> </i>Or for ease feel free to fill out this form.</li>
+        </ul>
+
+    <div class="container">
+            <form action="action_page.php">
+          
+              <label for="fname">First Name</label>
+              <input type="text" id="fname" name="firstname" placeholder="Your name..">
+          
+              <label for="lname">Last Name</label>
+              <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+          
+              <label for="country">Country</label>
+              <select id="country" name="country">
+                <option value="australia">Australia</option>
+                <option value="canada">Canada</option>
+                <option value="usa">USA</option>
+              </select>
+          
+              <label for="subject">Subject</label>
+              <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+          
+              <input type="submit" value="Submit">
+<!--With help from https://www.w3schools.com/howto/howto_css_contact_form.asp-->
+            </form>
+          </div>
+
+</body>
+</html>
