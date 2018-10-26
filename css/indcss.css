@@ -149,6 +149,7 @@ a:hover {
 
 .two{
     grid-area:two;
+    font-size: 40px;
 }
 
 .three{
