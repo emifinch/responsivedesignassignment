@@ -149,7 +149,7 @@ a:hover {
     height:500px;
 }
 
-@media screen and (min-width:776px){
+@media screen and (min-width:768px){
 .grid{
     display:grid;
     margin:25px;
@@ -163,7 +163,7 @@ a:hover {
 }
 }
 
-@media screen and (min-width:776px){
+@media screen and (min-width:768px){
     .grid2{
         display:grid;
         margin:25px;
@@ -177,6 +177,7 @@ a:hover {
         "five six"  
     }
 }
+/* 768 px selected because on tablets and phones I want one column to be viewed-(layout of page is one column) but on larger laptop and desktop screens I want the full layout verison viewable.  */
 
 .one{
     grid-area:one;
