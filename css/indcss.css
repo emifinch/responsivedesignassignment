@@ -44,7 +44,7 @@ nav > ul > li > a {
     color: #000035;
     font-family: 'Poiret One', cursive;
 }
-@media screen and (min-width:768px){
+
 #callme{
     margin: 0;
     padding: 0;
@@ -56,7 +56,7 @@ nav > ul > li > a {
     color: #000035;
     font-family: 'Poiret One', cursive;
 }
-}
+
 
 #workskills{
     margin: 0;
