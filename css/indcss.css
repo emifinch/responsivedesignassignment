@@ -206,12 +206,12 @@ a:hover {
 }
 
 .profilepic{
-    /* width:350px;
-    height:539px; */
+    width:350px;
+    height:539px; 
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    
 }
 
 .endpic{
