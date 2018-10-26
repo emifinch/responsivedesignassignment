@@ -24,8 +24,8 @@ nav > ul > li > a {
 
 body{
     margin: 0;
-    padding: 0;
-    font-size: 40px;  
+    padding: 10px;
+    font-size: 10px;  
     background-color:#ffb4b1;
     background-image: url("../images/flower.jpg");
     background-repeat: no-repeat;
