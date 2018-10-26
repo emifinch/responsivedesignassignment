@@ -212,7 +212,16 @@ a:hover {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    
+}
+
+.sidepic1{
+    display: block;
+    align-content: right;
+}
+
+.sidepic2{
+    display: block;
+    align-content: left;
 }
 
 .endpic{
