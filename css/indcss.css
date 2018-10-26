@@ -22,7 +22,15 @@ nav > ul > li > a {
     text-decoration: none;
 }
 
-body{
+#homepage.header{
+    margin:0;
+    padding:10px;
+    color: #5f4737;
+    font-family: 'Charmonman', cursive;
+
+}
+
+/* body{
     margin: 0;
     padding: 10px;
     font-size: 20px;  
@@ -37,7 +45,7 @@ body{
 header{
     color: #5f4737;
     font-family: 'Charmonman', cursive;
-}
+} */
 
 a:hover {
     background-color: maroon;
