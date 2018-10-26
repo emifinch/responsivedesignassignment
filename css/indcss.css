@@ -177,17 +177,6 @@ a:hover {
     "seven seven"  
 }
 
-.grid3{
-    display:grid;
-    margin:25px;
-    padding:13px;
-    grid-template-columns:1fr 1fr 1fr; 
-    grid-template-rows:1fr;
-    grid-row-gap:75px;
-    grid-column-gap: 50px;
-    grid-template-areas:
-    "sidepic1 profilepic sidepic2" 
-}
 
 .one{
     grid-area:one;
@@ -221,18 +210,6 @@ a:hover {
 .profilepic{
     width:350px;
     height:539px; 
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.sidepic1{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.sidepic2{
     display: block;
     margin-left: auto;
     margin-right: auto;
