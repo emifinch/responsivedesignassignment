@@ -44,7 +44,6 @@ header{
     margin:0;
     padding:0;
     background-color: #a6c48d;
-    margin: 0;
     overflow: hidden;
     }
     nav ul{
@@ -63,7 +62,7 @@ header{
         background-color:#c0be81;
         display: block;
         line-height: 2em;
-        /* padding: 0.5em 0.5em; */
+        padding: 0.5em 0.5em;
         text-decoration: none;
     }
 }
