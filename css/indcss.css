@@ -1,8 +1,7 @@
 .navbar{
-    nav {
-        background-color: #a6c48d;
-        margin: 0;
-        overflow: hidden;
+    background-color: #a6c48d;
+    margin: 0;
+    overflow: hidden;
     }
     nav ul{
         margin: 0;
