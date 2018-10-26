@@ -176,7 +176,7 @@ a:hover {
   }
 }
 
-@media screen and (min-width:100px){
+@media screen and (min-width:1000px){
 .flex-item {
     object-fit: cover;
     background: rgb(8, 199, 49);
