@@ -119,6 +119,8 @@ a:hover {
 @media screen and (min-width:776px){
 .grid{
     display:grid;
+    margin:10px;
+    padding:0;
     /* height:200px; */
     /* width:1039px; */
     grid-template-columns:1fr 1fr; 
@@ -131,6 +133,8 @@ a:hover {
 
 .grid2{
     display:grid;
+    margin:10px;
+    padding:0;
     /* height:200px; */
     /* width:1039px; */
     grid-template-columns:1fr 1fr; 
