@@ -62,10 +62,26 @@ nav > ul > li > a {
     margin: 0;
     padding: 0;
     font-size: 20px;  
-    background-color:rgb(122, 163, 163);
+    background-color:#ffb4b1;
+    background-image: url("../images/flower.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
     color: #000035;
     font-family: 'Poiret One', cursive;
+}
+
+@media only screen and (orientation:landscape){
+#workskills{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;  
+    background-color:teal;
+    background-image:none;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000035;
+    font-family: 'Poiret One', cursive;
+}
 }
 
 
