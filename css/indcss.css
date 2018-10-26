@@ -22,24 +22,8 @@ nav > ul > li > a {
     text-decoration: none;
 }
 
+
 #homepage{
-    margin: 0;
-    padding: 10px;
-    font-size: 20px;  
-    background-color:#ffb4b1;
-    color: #000035;
-    font-family: 'Poiret One', cursive;
-}
-
-/* #homepage.header{
-    margin:0;
-    padding:10px;
-    color: #5f4737;
-    font-family: 'Charmonman', cursive;
-
-} */
-
-/* body{
     margin: 0;
     padding: 10px;
     font-size: 20px;  
@@ -54,7 +38,7 @@ nav > ul > li > a {
 header{
     color: #5f4737;
     font-family: 'Charmonman', cursive;
-} */
+} 
 
 a:hover {
     background-color: maroon;
