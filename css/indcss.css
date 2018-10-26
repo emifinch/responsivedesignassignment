@@ -184,6 +184,7 @@ a:hover {
 .two{
     grid-area:two;
     font-size: 30px;
+    color:teal;
 }
 
 .three{
