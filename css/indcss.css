@@ -134,7 +134,7 @@ a:hover {
 .flex-item {
     object-fit: cover;
     background: teal;
-    margin: 10px;
+    margin: 15px;
     padding: 5px;
     width: 412.5px;
     height: 247.5px;
@@ -150,7 +150,7 @@ a:hover {
 .family {
     object-fit: cover;
     background: teal;
-    margin: 10px;
+    margin: 15px;
     padding: 5px;
     width: 412.5px;
     height: 247.5px;
@@ -167,10 +167,10 @@ a:hover {
 .flex-item {
         object-fit: cover;
         background: #270a38;
-        margin: 10px;
+        margin: 15px;
         padding: 5px;
-        width: 380.625px;
-        height: 228.375px;
+        width: 375x;
+        height: 225x;
         margin-top: 10px;
         
         line-height: 150px;
@@ -182,10 +182,10 @@ a:hover {
 .family {
         object-fit: cover;
         background: #270a38;
-        margin: 10px;
+        margin: 15px;
         padding: 5px;
-        width: 380.625px;
-        height: 228.375px;
+        width: 375x;
+        height: 225x;
         margin-top: 10px;
         
         line-height: 150px;
@@ -201,7 +201,7 @@ a:hover {
 .flex-item {
     object-fit: cover;
     background-color:#c0be81;
-    margin: 10px;
+    margin: 15px;
     padding: 5px;
     width: 337.5px;
     height: 202.5px;
@@ -216,7 +216,7 @@ a:hover {
 .family {
     object-fit: cover;
     background-color:#c0be81;
-    margin: 10px;
+    margin: 15px;
     padding: 5px;
     width: 337.5px;
     height: 202.5px;
