@@ -168,13 +168,12 @@ a:hover {
     margin:25px;
     padding:13px;
     grid-template-columns:1fr 1fr; 
-    grid-template-rows:1fr 1fr 1fr;
+    grid-template-rows:1fr 1fr;
     grid-row-gap:75px;
     grid-column-gap: 50px;
     grid-template-areas:
     "three four"
-    "five six"
-    "seven seven"  
+    "five six"  
 }
 
 
@@ -204,9 +203,6 @@ a:hover {
     grid-area: six
 }
 
-.seven{
-    grid-area: seven
-}
 
 .profilepic{
     width:350px;
