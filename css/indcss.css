@@ -147,7 +147,7 @@ a:hover {
 @media screen and (min-width:768px){
 .flex-item {
     object-fit: cover;
-    background: teal;
+    background: #c0be81;
     padding: 5px;
     width:450px;
     height: 270px;
@@ -162,7 +162,7 @@ a:hover {
 
 .family {
     object-fit: cover;
-    background: teal;
+    background: #c0be81;
     padding: 5px;
     width: 450px;
     height: 270px;
@@ -179,7 +179,7 @@ a:hover {
 @media screen and (min-width:992px){
 .flex-item {
     object-fit: cover;
-    background: teal;
+    background: rgb(8, 199, 49);
     padding: 5px;
     width:375px;
     height: 225px;
@@ -194,7 +194,7 @@ a:hover {
 
 .family {
     object-fit: cover;
-    background: teal;
+    background: rgb(8, 199, 49);
     padding: 5px;
     width: 375px;
     height: 225px;
