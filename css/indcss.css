@@ -113,7 +113,69 @@ a:hover {
     flex-wrap: wrap;
     align-items: center;
   }
-  
+
+.flex-item {
+    object-fit: cover;
+    background: teal;
+    padding: 5px;
+    width:525px;
+    height: 315px;
+    margin-top: 10px;
+    
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+  }
+
+.family {
+    object-fit: cover;
+    background: teal;
+    padding: 5px;
+    width: 525px;
+    height: 315px;
+    margin-top: 10px;
+    
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+  }
+@media screen and (min-width:768px){
+.flex-item {
+    object-fit: cover;
+    background: teal;
+    padding: 5px;
+    width:450px;
+    height: 270px;
+    margin-top: 10px;
+    
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+  }
+
+.family {
+    object-fit: cover;
+    background: teal;
+    padding: 5px;
+    width: 450px;
+    height: 270px;
+    margin-top: 10px;
+    
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+  }
+}
+
+@media screen and (min-width:992px){
 .flex-item {
     object-fit: cover;
     background: teal;
@@ -129,7 +191,7 @@ a:hover {
     text-align: center;
   }
 
-  .family {
+.family {
     object-fit: cover;
     background: teal;
     padding: 5px;
@@ -143,6 +205,8 @@ a:hover {
     font-size: 3em;
     text-align: center;
   }
+}
+
 
 .imgsize{
     width:480px;
