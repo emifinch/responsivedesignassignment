@@ -22,6 +22,15 @@ nav > ul > li > a {
     text-decoration: none;
 }
 
+#homepage{
+    margin: 0;
+    padding: 10px;
+    font-size: 20px;  
+    background-color:#ffb4b1;
+    color: #000035;
+    font-family: 'Poiret One', cursive;
+}
+
 #homepage.header{
     margin:0;
     padding:10px;
