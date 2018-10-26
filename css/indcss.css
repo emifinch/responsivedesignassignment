@@ -25,7 +25,7 @@ nav > ul > li > a {
 
 #homepage{
     margin: 0;
-    padding: 10px;
+    padding: 0;
     font-size: 20px;  
     background-color:#ffb4b1;
     background-image: url("../images/flower.jpg");
