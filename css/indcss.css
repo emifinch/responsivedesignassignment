@@ -41,6 +41,8 @@ header{
 } 
 
 .navbar{
+    margin:0;
+    padding:0;
     background-color: #a6c48d;
     margin: 0;
     overflow: hidden;
