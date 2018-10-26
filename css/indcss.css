@@ -163,6 +163,7 @@ a:hover {
 }
 }
 
+@media screen and (min-width:776px){
 .grid2{
     display:grid;
     margin:25px;
@@ -175,7 +176,7 @@ a:hover {
     "three four"
     "five six"  
 }
-
+}
 
 .one{
     grid-area:one;
