@@ -164,7 +164,7 @@ a:hover {
   }
   
 @media screen and (min-width:768px){
-.flex-item {
+    .flex-item {
         object-fit: cover;
         background: #270a38;
         margin: 15px;
@@ -179,7 +179,7 @@ a:hover {
         font-size: 3em;
         text-align: center;
       }
-.family {
+      .family {
         object-fit: cover;
         background: #270a38;
         margin: 15px;
@@ -195,7 +195,8 @@ a:hover {
         text-align: center;
       }
 }
-    
+   
+
     
 @media screen and (min-width:1000px){
 .flex-item {
