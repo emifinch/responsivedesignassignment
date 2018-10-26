@@ -144,7 +144,7 @@ a:hover {
     text-align: center;
   }
   
-@media screen and (min-width:768px){
+@media screen and (min-width:450px){
 .flex-item {
     object-fit: cover;
     background: #c0be81;
@@ -176,7 +176,7 @@ a:hover {
   }
 }
 
-@media screen and (min-width:992px){
+@media screen and (min-width:1000px){
 .flex-item {
     object-fit: cover;
     background: rgb(8, 199, 49);
