@@ -36,7 +36,9 @@ nav > ul > li > a {
 }
 
 .headers{
+    margin: 5px;
     padding:5px;
+    font-size:30px;
     color: #5f4737;
     font-family: 'Charmonman', cursive;
 } 
