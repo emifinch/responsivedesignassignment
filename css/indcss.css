@@ -35,7 +35,8 @@ nav > ul > li > a {
     font-family: 'Poiret One', cursive;
 }
 
-header{
+.headers{
+    padding:5px;
     color: #5f4737;
     font-family: 'Charmonman', cursive;
 } 
