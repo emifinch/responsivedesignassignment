@@ -118,6 +118,7 @@ a:hover {
 .flex-item {
     object-fit: cover;
     background: teal;
+    margin: 10px;
     padding: 5px;
     width: 412.5px;
     height: 247.5px;
@@ -133,6 +134,7 @@ a:hover {
 .family {
     object-fit: cover;
     background: teal;
+    margin: 10px;
     padding: 5px;
     width: 412.5px;
     height: 247.5px;
@@ -149,6 +151,7 @@ a:hover {
 .flex-item {
         object-fit: cover;
         background: #270a38;
+        margin: 10px;
         padding: 5px;
         width: 393.75px;
         height: 236.25px;
@@ -163,6 +166,7 @@ a:hover {
 .family {
         object-fit: cover;
         background: #270a38;
+        margin: 10px;
         padding: 5px;
         width: 393.75px;
         height: 236.25px;
@@ -181,6 +185,7 @@ a:hover {
 .flex-item {
     object-fit: cover;
     background-color:#c0be81;
+    margin: 10px;
     padding: 5px;
     width: 375px;
     height: 225px;
@@ -195,6 +200,7 @@ a:hover {
 .family {
     object-fit: cover;
     background-color:#c0be81;
+    margin: 10px;
     padding: 5px;
     width: 375px;
     height: 225px;
@@ -207,6 +213,8 @@ a:hover {
     text-align: center;
   }
 }
+
+/* Used Media query and width view to change color of padding and increase image size on increasingly smaller screens so that the photos appear largest and as single unique elements on phones as opposed to conveying the gallery meaning on large screens. */
 
 .imgsize{
     width:480px;
