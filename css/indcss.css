@@ -61,9 +61,9 @@ nav > ul > li > a {
 #workskills{
     margin: 0;
     padding: 0;
-    font-size: 20px;  
-    background-color:#ffb4b1;
-    background-image: url("../images/flower.jpg");
+    font-size: 20px; 
+    background-color:teal;
+    background-image:none; 
     background-repeat: no-repeat;
     background-size: cover;
     color: #000035;
@@ -75,8 +75,8 @@ nav > ul > li > a {
     margin: 0;
     padding: 0;
     font-size: 20px;  
-    background-color:teal;
-    background-image:none;
+    background-color:#ffb4b1;
+    background-image: url("../images/flower.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color: #000035;
@@ -84,6 +84,7 @@ nav > ul > li > a {
 }
 }
 
+/* Used a media query to change background of page to differ between a plain color in portrait since the image will be blocked, and an image in landscape */
 
 .headers{
     margin: 30px 15px 30px 15px;
